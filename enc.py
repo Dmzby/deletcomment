@@ -7,7 +7,7 @@ def remove_comments(code: str, language: str) -> str:
     Author by dimasbp 
     recode izin dulu ler
     ig : dmzby_
-    fb : dimasdev
+    fb : dimasbp
     
     """
     patterns = {
@@ -38,8 +38,8 @@ def show_loading(message: str):
 
 if __name__ == "__main__":
     print("\n========================")
-    print("[#] AUTHOR   : LEOXSEC")
-    print("[#] GITHUB   : dimasbp-dev")
+    print("[#] AUTHOR   : dmzby")
+    print("[#] GITHUB   : dmzby")
     print("")
     print("[!] Menghapus komentar dari file kode sumber untuk beberapa bahasa pemrograman  HTML, CSS, PHP, Dart, Python, C++, Java, dan C#.")
     print("========================")
