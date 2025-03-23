@@ -37,8 +37,6 @@ def show_loading(message: str):
 if __name__ == "__main__":
     print("\n========================")
     print("[#] AUTHOR   : dmzby")
-    print("[#] GITHUB   : dmzby")
-    print("")
     print("[!] Menghapus komentar dari file kode sumber untuk beberapa bahasa pemrograman  HTML, CSS, PHP, Dart, Python, C++, Java, dan C#.")
     print("========================")
     print("1. HTML")
