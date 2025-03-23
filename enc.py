@@ -6,8 +6,6 @@ def remove_comments(code: str, language: str) -> str:
     """
     Author by dimasbp 
     recode izin dulu ler
-    ig : dmzby_
-    fb : dimasbp
     
     """
     patterns = {
